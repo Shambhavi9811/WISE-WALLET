@@ -1,7 +1,7 @@
 <h1>EXPENSE TRACKER</h1>
 <br>
 <ul>
-<li>An interactive web application for tracking expenses using HTML, CSS, and JavaScript.</li>
+  <li>An interactive web application for tracking expenses using HTML, CSS, and JavaScript.</li>
 </ul>
 <br>
 
@@ -27,9 +27,9 @@
 <h2>Getting Started</h2>
 <br>
 <ul>
-<li>Clone the repository:</li>
+  <li>Clone the repository:</li>
 
-<li>Open the index.html file in your preferred web browser.</li>
+  <li>Open the index.html file in your preferred web browser.</li>
 </ul>
 <h2>Usage</h2>
 <br>
