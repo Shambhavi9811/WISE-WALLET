@@ -3,7 +3,7 @@
 An interactive web application for tracking expenses using HTML, CSS, and JavaScript.
 <br>
 
-Features
+<h2>Features</h2>
 <br>
 Add and manage your expenses with ease.
 <br>
