@@ -42,7 +42,8 @@ Use the filter options to narrow down your expense history.
 <br>
 <h2>Contributors</h2>
 <br>
-<ol>
+<ul>
  <li> Shambhavi</li>
  <li> jhashambhavi071@gmail.com </li>
+</ul>
 
