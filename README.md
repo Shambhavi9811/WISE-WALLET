@@ -1,9 +1,14 @@
 EXPENSE TRACKER
+<br>
 An interactive web application for tracking expenses using HTML, CSS, and JavaScript.
+<br>
 
 Features
+<br>
 Add and manage your expenses with ease.
+<br>
 Categorize expenses for better organization.
+<br>
 View your spending history with detailed information.
 Responsive design for seamless use on desktop and mobile.
 Technologies Used
