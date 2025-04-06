@@ -33,16 +33,16 @@
 </ul>
 <h2>Usage</h2>
 <br>
-Click the "Add Expense" button to add a new expense.
-<br>
-Enter the expense amount, select a category, and add a description.
-<br>
-Click "Save" to record the expense.
-<br>
-View your expenses in the expense list and categorized view.
-<br>
-Use the filter options to narrow down your expense history.
-<br>
+<ol>
+
+  <li>Click the "Add Expense" button to add a new expense.</li>
+
+  <li>Enter the expense amount, select a category, and add a description.</li>
+
+ <li>Click "Save" to record the expense.</li>
+ <li>View your expenses in the expense list and categorized view.</li>
+
+ <li>Use the filter options to narrow down your expense history.</li>
 <h2>Contributors</h2>
 <br>
 <ul>
