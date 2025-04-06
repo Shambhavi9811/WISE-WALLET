@@ -45,6 +45,7 @@
  <li>View your expenses in the expense list and categorized view.</li>
 
  <li>Use the filter options to narrow down your expense history.</li>
+</ol>
 <h2>Contributors</h2>
 <br>
 <ul>
