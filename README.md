@@ -26,10 +26,11 @@
 <br>
 <h2>Getting Started</h2>
 <br>
-Clone the repository:
-<br>
-Open the index.html file in your preferred web browser.
-<br>
+<ul>
+<li>Clone the repository:</li>
+
+<li>Open the index.html file in your preferred web browser.</li>
+</ul>
 <h2>Usage</h2>
 <br>
 Click the "Add Expense" button to add a new expense.
