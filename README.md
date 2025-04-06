@@ -16,11 +16,11 @@ An interactive web application for tracking expenses using HTML, CSS, and JavaSc
 <br>
 <h2>Technologies Used</h2>
 <br>
-HTML5
-<br>
-CSS3
-<br>
-JavaScript
+<ol>
+ <li>HTML</li>
+ <li>CSS3</li>
+ <li>Javascript</li>
+
 <br>
 <h2>Getting Started</h2>
 <br>
