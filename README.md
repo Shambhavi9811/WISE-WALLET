@@ -1,4 +1,4 @@
-EXPENSE TRACKER
+<h1>EXPENSE TRACKER</h1>
 <br>
 An interactive web application for tracking expenses using HTML, CSS, and JavaScript.
 <br>
