@@ -5,6 +5,9 @@ An interactive web application for tracking expenses using HTML, CSS, and JavaSc
 
 <h2>Features</h2>
 <br>
+<ol>
+   <li>Add and manage your expenses with ease.</li>
+</ol>
 Add and manage your expenses with ease.
 <br>
 Categorize expenses for better organization.
