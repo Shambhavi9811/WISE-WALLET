@@ -13,7 +13,7 @@ View your spending history with detailed information.
 <br>
 Responsive design for seamless use on desktop and mobile.
 <br>
-Technologies Used
+<h2>Technologies Used</h2>
 <br>
 HTML5
 <br>
@@ -21,13 +21,13 @@ CSS3
 <br>
 JavaScript
 <br>
-Getting Started
+<h2>Getting Started</h2>
 <br>
 Clone the repository:
 <br>
 Open the index.html file in your preferred web browser.
 <br>
-Usage
+<h2>Usage</h2>
 <br>
 Click the "Add Expense" button to add a new expense.
 <br>
@@ -39,7 +39,7 @@ View your expenses in the expense list and categorized view.
 <br>
 Use the filter options to narrow down your expense history.
 <br>
-Contributors
+<h2>Contributors</h2>
 <br>
 Shambhavi
 <br>
