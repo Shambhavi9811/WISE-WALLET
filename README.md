@@ -22,8 +22,10 @@
  <li>HTML</li>
  <li>CSS3</li>
  <li>Javascript</li>
-
+</ol>
 <br>
+
+
 <h2>Getting Started</h2>
 <br>
 <ul>
